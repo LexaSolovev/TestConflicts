@@ -1,2 +1,3 @@
 def summ(a: int, b: int) -> int:
-    return a+b
+    """Функция суммирует 2 числа"""
+    return a + b
